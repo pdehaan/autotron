@@ -1,0 +1,17 @@
+{
+  "compressedJsSrc": "./public/js/bundle.js",
+  "compressedJsDist": "./public/js",
+  "jsSrc": "./resources/assets/js/app.js",
+  "jsDist": "./public/js",
+  "lessSrc": "./resources/assets/less/main-base.less",
+  "lessDist": "./public/css",
+  "sassSrc": "./resources/assets/sass/main-base.sass",
+  "sassDist": "./public/css",
+  "sitemapSrcDir": "./dist",
+  "sitemapUrl": "http://localhost:8000",
+  "sitemapDistDir": "./dist",
+  "staticPagesSrc": "./src/pages",
+  "staticPagesDist": "./dist",
+  "staticPartialsSrc": "./src/_partials",
+  "webserverRoot": "./dist"
+}
