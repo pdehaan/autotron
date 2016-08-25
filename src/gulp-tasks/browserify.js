@@ -7,6 +7,6 @@ gulp.task('autotron-browserify', () => {
     transform: [babelify]
   })
     .bundle()
-    .pipe(source('bundle.js'))
+    .pipe(source(autotronPaths.compiledJsFileName))
     .pipe(gulp.dest(autotronPaths.jsDist))
 });

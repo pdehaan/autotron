@@ -8,3 +8,5 @@ gulp.task('compress-js', ['autotron-compress-js']);
 gulp.task('build-static-pages', ['autotron-build-static-pages']);
 gulp.task('webserver', ['autotron-webserver']);
 gulp.task('sitemap', ['autotron-sitemap']);
+gulp.task('revise', ['autotron-revise']);
+gulp.task('replace', ['autotron-revreplace']);

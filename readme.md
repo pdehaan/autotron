@@ -6,7 +6,7 @@ A hackable modular task management framework for [gulp.js](http://gulpjs.com/).
 
 ## Features
 
-AutoTron ships with tasks for processing/minifying Less and Sass, using Browserify with Babelify/Uglify on .js files, building static html pages from Handlebars templates, creating a sitemap.xml file and launching a simple webserver with auto-reload.
+AutoTron ships with tasks for processing/minifying Less and Sass, using Browserify with Babelify/Uglify on .js files, building static html pages from Handlebars templates, creating a sitemap.xml file, cache busting utilities and launching a simple webserver with auto-reload.
 
 You can add/change/configure any task you choose and use the API to keep your gulpfile streamlined. To contribute a task to the core package, see the customizing/contributing section below.
 
